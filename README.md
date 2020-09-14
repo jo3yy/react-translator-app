@@ -9,5 +9,4 @@ The underlying stack used are:
 
 Running version can be seen here: https://5f5f3405a9ea4d2cf4e47d60--thirsty-murdock-d29519.netlify.app/
 
-I probably will not be further developing this app.
-But its more used to showcase my understanding of React, React Hooks, and API calls.
+I probably will not be further developing this app, rather its more used to showcase my understanding of React, React Hooks, and API calls.
